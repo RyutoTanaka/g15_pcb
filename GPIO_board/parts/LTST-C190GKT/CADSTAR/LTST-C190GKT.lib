@@ -1,0 +1,16 @@
+.LTST-C190GKT :1 ;Standard LEDs - SMD Green Clear 569nm
+LEDC1608X90N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN LTST-C190GKT
+~!Mouser Part Number (859-LTST-C190GKT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190GKT?qs=drxkyCeiWgbQzclgbojDOg%3D%3D)
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTST-C190GKT)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf)
+~!Height (0.9mm)
+~!3D_Model (LTST-C190GKT)
+LTST-C190GKT
+1.1!U 2.1!U 

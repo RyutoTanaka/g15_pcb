@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACS770LCB_100U_PFF_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "ACS770LCB-100U-PFF-T" (!) = "", "ACS772ECB200BPFFT", "Other", "250-770LCB100UPFFT", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS770LCB-100U-PFF-T?qs=pUKx8fyJudBHVmTac3Vzfw%3D%3D", "High Precision Linear Current Sensor", "https://www.allegromicro.com/-/media/files/datasheets/acs770-datasheet.ashx", "7.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ECA-1VM331B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-18-13:30:12)
+    (mountForm default
+        (footprintRef "CAPPRD500W65D1025H1350")
+        (spec "System")
+    )
+)

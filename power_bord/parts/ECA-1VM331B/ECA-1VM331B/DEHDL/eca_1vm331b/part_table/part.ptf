@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ECA_1VM331B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ECA-1VM331B" (!) = "", "CAPPRD500W65D1025H1350", "Capacitor, Polarized Radial Diameter", "667-ECA-1VM331B", "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM331B?qs=ScpEy4ykWJx5GHeqjXd%2Fwg%3D%3D", "Panasonic 330uF 35 V Aluminium Electrolytic Capacitor, M Series 2000h 10 x 12.5mm", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf", "13.5 mm"
+END_PART
+
+END.

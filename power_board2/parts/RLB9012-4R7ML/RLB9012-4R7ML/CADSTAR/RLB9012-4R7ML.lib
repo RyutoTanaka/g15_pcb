@@ -1,0 +1,16 @@
+.RLB9012-4R7ML :1 ;4.7 H Unshielded Drum Core, Wirewound Inductor 4.6 A 30mOhm Max Radial, Vertical Cylinder
+RLB90124R7ML
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RLB9012-4R7ML
+~!Mouser Part Number (652-RLB9012-4R7ML)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/RLB9012-4R7ML?qs=dB0LedT%252BmmCdr5M2RjuQig%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (RLB9012-4R7ML)
+~!Link Datasheet (https://www.bourns.com/pdfs/RLB9012.pdf)
+~!Height (12.2mm)
+~!3D_Model (RLB9012-4R7ML)
+RLB9012-4R7ML
+1.1!U 2.1!U 

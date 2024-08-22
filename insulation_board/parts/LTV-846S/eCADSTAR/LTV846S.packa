@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LTV-846S"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-23-10:02:37)
+    (mountForm default
+        (footprintRef "LTV846S")
+        (spec "System")
+    )
+)

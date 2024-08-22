@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ACS770LCB-100U-PFF-T")(type "Legacy")(uri "${KIPRJMOD}/parts/ACS770LCB-100U-PFF-T/KiCad/ACS770LCB-100U-PFF-T.lib")(options "")(descr ""))
+  (lib (name "BS170")(type "Legacy")(uri "${KIPRJMOD}/parts/BS170/KiCad/BS170.lib")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32E")(type "KiCad")(uri "${KIPRJMOD}/parts/ESP32-DEVKITC-32E/ESP32-DEVKITC-32E.kicad_sym")(options "")(descr ""))
+  (lib (name "NJM7805FA")(type "Legacy")(uri "${KIPRJMOD}/parts/NJM7805FA/KiCad/NJM7805FA.lib")(options "")(descr ""))
+  (lib (name "PDQE20-Q24-S5-D")(type "Legacy")(uri "${KIPRJMOD}/parts/PDQE20-Q24-S5-D/PDQE20-Q24-S5-D/KiCad/PDQE20-Q24-S5-D.lib")(options "")(descr ""))
+  (lib (name "RLB9012-4R7ML")(type "Legacy")(uri "${KIPRJMOD}/parts/RLB9012-4R7ML/RLB9012-4R7ML/KiCad/RLB9012-4R7ML.lib")(options "")(descr ""))
+  (lib (name "TWW20J1R0E")(type "Legacy")(uri "${KIPRJMOD}/parts/TWW20J1R0E/TWW20J1R0E/KiCad/TWW20J1R0E.lib")(options "")(descr ""))
+  (lib (name "A295-CTRPB-1")(type "KiCad")(uri "${KIPRJMOD}/parts/A295-CTRPB-1/A295-CTRPB-1.kicad_sym")(options "")(descr ""))
+  (lib (name "power_board2")(type "KiCad")(uri "${KIPRJMOD}/power_board2.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=ACS770LCB-100U-PFF-T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=35
+Version=13.3
+Released=2021-11-01 12:58:14
+Downloaded=2024-06-29 16:04:52
+3D=Y

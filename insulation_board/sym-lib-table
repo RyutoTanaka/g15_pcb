@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "110990030")(type "KiCad")(uri "${KIPRJMOD}/parts/110990030/110990030.kicad_sym")(options "")(descr ""))
+  (lib (name "LTV-846S")(type "KiCad")(uri "${KIPRJMOD}/parts/LTV-846S/KiCad/LTV-846S.kicad_sym")(options "")(descr ""))
+  (lib (name "BSS84DW-7-F")(type "Legacy")(uri "${KIPRJMOD}/parts/BSS84DW-7-F/KiCad/BSS84DW-7-F.lib")(options "")(descr ""))
+)

@@ -1,0 +1,105 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PJ-102BH"
+   (description "DC Power Connectors Power Jacks")
+   (family "CON")
+   (package "PJ-102AH")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/PJ-102BH.pdf")
+   (attribute "Mouser Part Number" "490-PJ-102BH")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-102BH?qs=WyjlAZoYn51LQvDYqCqBtA%3D%3D")
+   (attribute "Manufacturer_Name" "CUI Devices")
+   (attribute "Manufacturer_Part_Number" "PJ-102BH")
+   (gate
+    (symbol "PJ-102BH")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+   )
+  )
+  (symbol "PJ-102BH"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PJ-102AH"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 9 10.7)
+      (pt 0 10.7)
+      (pt 0 -3.7)
+      (pt 9 -3.7)
+      (pt 9 10.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt 4.14215 -5.051) (pt 4.37985 -5.051)
+     )
+    )
+   )
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 9 -3.7)
+      (pt 9 10.7)
+      (pt 0 10.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 10.7)
+      (pt 0 3.5))))
+   (leg 1 (pt 4.3 -3) (padstack 0))
+   (leg 2 (pt 4.3 3) (padstack 0))
+   (leg 3 (pt -0.4 0) (padstack 0))
+   (padstack 0
+    (hole 1.9)
+    (plated true)
+    (pad (layer TCOP) (round 3))
+    (pad (layer INNER) (round 3))
+    (pad (layer BCOP) (round 3))
+   )
+   (model "PJ-102BH.stp"
+    (euler 0 0 -90)
+    (offset 4.309999942779541 -2.7899999618530273 6.760000228881836)
+   )
+  )
+ )
+)

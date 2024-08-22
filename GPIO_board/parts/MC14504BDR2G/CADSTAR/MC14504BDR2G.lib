@@ -1,0 +1,16 @@
+.MC14504BDR2G :1 ;ON Semiconductor MC14504BDR2G, Logic Level Translator, Level Translator, CMOS, TTL to CMOS, CMOS, 16-Pin SOIC
+SOIC127P600X175-16N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="AOUT" 3="AIN" 4="BOUT" 5="BIN" 6="COUT" 7="CIN" 8="VSS" 9="DIN" 10="DOUT" 11="EIN" 12="EOUT" 13="MODE" 14="FIN" 15="FOUT" 16="VDD"
+*MXP 16
+*DFN MC14504BDR2G
+~!Mouser Part Number (863-MC14504BDR2G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/MC14504BDR2G?qs=gb35HGp1gQL9H0BhIg5f%2FQ%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MC14504BDR2G)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF)
+~!Height (1.75mm)
+~!3D_Model (MC14504BDR2G)
+MC14504BDR2G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

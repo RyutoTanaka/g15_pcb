@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ECA-1VM101
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor, Polarized Radial Diameter
+PinCount=2
+Version=4.1
+Released=2017-03-09 14:54:32
+Downloaded=2024-05-13 14:37:03
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECA-1VM331B
+D Panasonic 330uF 35 V Aluminium Electrolytic Capacitor, M Series 2000h 10 x 12.5mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf
+$ENDCMP
+#
+#End Doc Library

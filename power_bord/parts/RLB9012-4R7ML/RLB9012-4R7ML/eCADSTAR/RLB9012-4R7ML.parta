@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1434691"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-25-05:26:10)
+    (utime 2023-08-25-06:25:18)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RLB9012-4R7ML")
+)
+
+
+(pinAssign "ECS_1434691"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-25-05:26:10)
+    (utime 2023-08-25-06:25:18)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1434691")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RLB9012-4R7ML")
+)
+
+
+(part "RLB9012-4R7ML"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-25-05:26:10)
+    (utime 2023-08-25-06:25:18)
+    (packageRef "RLB9012-4R7ML")
+    (pinAssignRef "ECS_1434691")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "4.7 H Unshielded Drum Core, Wirewound Inductor 4.6 A 30mOhm Max Radial, Vertical Cylinder")
+    (property "Mouser_Part_Number" "652-RLB9012-4R7ML")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/RLB9012-4R7ML?qs=dB0LedT%252BmmCdr5M2RjuQig%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "RLB9012-4R7ML")
+    (property "Datasheet_Link" "https://www.bourns.com/pdfs/RLB9012.pdf")
+    (property "compAreaTopHeight" 12.2)
+)
+
+

@@ -1,0 +1,9 @@
+Manufacturer=CUI Devices
+PartNumber=PJ-102BH
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2018-01-03 17:41:49
+Downloaded=2024-05-13 14:05:00
+3D=Y

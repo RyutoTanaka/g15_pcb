@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LTV846S"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LTV846S")
+        (spec "default")
+    )
+)

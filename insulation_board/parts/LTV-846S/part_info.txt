@@ -1,0 +1,9 @@
+Manufacturer=Lite-On
+PartNumber=LTV-846S
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=16
+Version=5.4
+Released=2016-04-19 10:35:30
+Downloaded=2024-06-24 14:18:23
+3D=Y

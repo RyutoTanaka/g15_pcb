@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RLB90124R7ML"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RLB90124R7ML")
+        (spec "default")
+    )
+)

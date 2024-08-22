@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MC14504BDR2G"
+   (description "ON Semiconductor MC14504BDR2G, Logic Level Translator, Level Translator, CMOS, TTL to CMOS, CMOS, 16-Pin SOIC")
+   (family "ANA")
+   (package "SOIC127P600X175-16N")
+   (attribute "Datasheet Link" "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Mouser Part Number" "863-MC14504BDR2G")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC14504BDR2G?qs=gb35HGp1gQL9H0BhIg5f%2FQ%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "MC14504BDR2G")
+   (gate
+    (symbol "MC14504BDR2G")
+    (pin "VCC" 1 PS)
+    (pin "AOUT" 2 PS)
+    (pin "AIN" 3 PS)
+    (pin "BOUT" 4 PS)
+    (pin "BIN" 5 PS)
+    (pin "COUT" 6 PS)
+    (pin "CIN" 7 PS)
+    (pin "VSS" 8 PS)
+    (pin "VDD" 16 PS)
+    (pin "FOUT" 15 PS)
+    (pin "FIN" 14 PS)
+    (pin "MODE" 13 PS)
+    (pin "EOUT" 12 PS)
+    (pin "EIN" 11 PS)
+    (pin "DOUT" 10 PS)
+    (pin "DIN" 9 PS)
+   )
+  )
+  (symbol "MC14504BDR2G"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P600X175-16N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.75 5.25)
+      (pt 3.75 5.25)
+      (pt 3.75 -5.25)
+      (pt -3.75 -5.25)
+      (pt -3.75 5.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 4.95)
+      (pt 1.95 4.95)
+      (pt 1.95 -4.95)
+      (pt -1.95 -4.95)
+      (pt -1.95 4.95))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 3.68)
+      (pt -0.68 4.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 4.95)
+      (pt 1.6 4.95)
+      (pt 1.6 -4.95)
+      (pt -1.6 -4.95)
+      (pt -1.6 4.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.5 5.12)
+      (pt -1.95 5.12))))
+   (leg 1 (pt -2.725 4.445) (padstack 0))
+   (leg 2 (pt -2.725 3.175) (padstack 0))
+   (leg 3 (pt -2.725 1.905) (padstack 0))
+   (leg 4 (pt -2.725 0.635) (padstack 0))
+   (leg 5 (pt -2.725 -0.635) (padstack 0))
+   (leg 6 (pt -2.725 -1.905) (padstack 0))
+   (leg 7 (pt -2.725 -3.175) (padstack 0))
+   (leg 8 (pt -2.725 -4.445) (padstack 0))
+   (leg 9 (pt 2.725 -4.445) (padstack 0))
+   (leg 10 (pt 2.725 -3.175) (padstack 0))
+   (leg 11 (pt 2.725 -1.905) (padstack 0))
+   (leg 12 (pt 2.725 -0.635) (padstack 0))
+   (leg 13 (pt 2.725 0.635) (padstack 0))
+   (leg 14 (pt 2.725 1.905) (padstack 0))
+   (leg 15 (pt 2.725 3.175) (padstack 0))
+   (leg 16 (pt 2.725 4.445) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.65 1.55 0 0 0))
+   )
+   (model "MC14504BDR2G.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

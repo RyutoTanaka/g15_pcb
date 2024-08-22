@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ECA_1VM102B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ECA-1VM102B" (!) = "", "CAPPRD500W65D1275H2200", "Capacitor, Polarized Radial Diameter", "667-ECA-1VM102B", "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM102B?qs=ScpEy4ykWJyQ7uKeGSrZhA%3D%3D", "Panasonic Aluminium Electrolytic Capacitor 1000uF 35V dc 12.5mm M Series Aluminium, Through Hole Electrolytic, +/-20%", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf", "22 mm"
+END_PART
+
+END.

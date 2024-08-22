@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_867628"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-01-16-09:03:43)
+    (utime 2024-05-01-11:41:52)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GR442QR73D102KW01L")
+)
+
+
+(pinAssign "ECS_867628"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-01-16-09:03:43)
+    (utime 2024-05-01-11:41:52)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_867628")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GR442QR73D102KW01L")
+)
+
+
+(part "GR442QR73D102KW01L"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-01-16-09:03:43)
+    (utime 2024-05-01-11:41:52)
+    (packageRef "GR442QR73D102KW01L")
+    (pinAssignRef "ECS_867628")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "MURATA - GR442QR73D102KW01L - CAPACITOR, MLCC, X7R, 1000PF, 2KV, 1808")
+    (property "Mouser_Part_Number" "81-GR442QR73D102KW01")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GR442QR73D102KW01L?qs=1XGAtBqYNz74JcxvF1DQuw%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GR442QR73D102KW01L")
+    (property "Datasheet_Link" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GR442QR73D102KW01-01.pdf")
+    (property "compAreaTopHeight" 1.5)
+)
+
+

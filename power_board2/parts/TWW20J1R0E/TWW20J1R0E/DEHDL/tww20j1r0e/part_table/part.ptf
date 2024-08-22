@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TWW20J1R0E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Ohmite", "TWW20J1R0E" (!) = "", "TWW20J1R0E", "Other", "588-TWW20J1R0E", "https://www.mouser.co.uk/ProductDetail/Ohmite/TWW20J1R0E?qs=PzGy0jfpSMun14wW%2FANnvg%3D%3D", "Wirewound Resistors - Through Hole 1 ohm 20W 5% Ceramic Radial", "https://www.mouser.de/datasheet/2/303/res_tww_twm-1228653.pdf", "46 mm"
+END_PART
+
+END.

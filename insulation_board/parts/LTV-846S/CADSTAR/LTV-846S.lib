@@ -1,0 +1,16 @@
+.LTV-846S :1 ;Optocoupler Transistor O/P, 80V, SMD16 Lite-On LTV-846S DC Input Transistor Output Quad Optocoupler, Surface Mount, 16-Pin PDIP
+LTV846S
+*STM IC
+*NGS
+*PLB 1="A_1" 2="K_1" 3="A_2" 4="K_2" 5="A_3" 6="K_3" 7="A_4" 8="K_4" 9="E_4" 10="C_4" 11="E_3" 12="C_3" 13="E_2" 14="C-2" 15="E_1" 16="C_1"
+*MXP 16
+*DFN LTV-846S
+~!Mouser Part Number (859-LTV-846S)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lite-On/LTV-846S?qs=mugDbBsgkzfnKotYIW64TQ%3D%3D)
+~!Manufacturer_Name (Lite-On)
+~!Manufacturer_Part_Number (LTV-846S)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf)
+~!Height (4.6mm)
+~!3D_Model (LTV-846S)
+LTV-846S
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

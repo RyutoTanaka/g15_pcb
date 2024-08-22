@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TWW20J1R0E"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TWW20J1R0E")
+        (spec "default")
+    )
+)

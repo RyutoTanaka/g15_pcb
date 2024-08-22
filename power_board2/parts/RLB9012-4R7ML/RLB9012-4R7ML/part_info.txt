@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=RLB9012-4R7ML
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2023-08-25 05:26:10
+Downloaded=2024-05-13 15:48:40
+3D=Y

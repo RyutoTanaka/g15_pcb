@@ -1,0 +1,133 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PDQE20-Q24-S5-D"
+   (description "Isolated DC/DC Converters isolated, 20 W, 9 36 Vdc input, 5 Vdc, 4 A, single regulated output, DIP")
+   (family "ANA")
+   (package "PDQE15Q24S5D")
+   (attribute "Datasheet Link" "https://www.cui.com/product/resource/pdqe20-d.pdf")
+   (attribute "Geometry.Height" "12.2mm")
+   (attribute "Mouser Part Number" "490-PDQE20-Q24-S5-D")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDQE20-Q24-S5-D?qs=T3oQrply3y%2FtCzjhZ6U7qw%3D%3D")
+   (attribute "Manufacturer_Name" "CUI Inc.")
+   (attribute "Manufacturer_Part_Number" "PDQE20-Q24-S5-D")
+   (gate
+    (symbol "PDQE20-Q24-S5-D")
+    (pin "CTRL" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "VIN" 3 PS)
+    (pin "+VO" 4 PS)
+    (pin "TRIM" 5 PS)
+    (pin "0V" 6 PS)
+   )
+  )
+  (symbol "PDQE20-Q24-S5-D"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PDQE15Q24S5D"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.54 -22.86)
+      (pt 22.86 -22.86)
+      (pt 22.86 2.54)
+      (pt -2.54 2.54)
+      (pt -2.54 -22.86))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.54 -22.86)
+      (pt 22.86 -22.86)
+      (pt 22.86 2.54)
+      (pt -2.54 2.54)
+      (pt -2.54 -22.86))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.3 -23.86)
+      (pt 23.86 -23.86)
+      (pt 23.86 3.54)
+      (pt -5.3 3.54)
+      (pt -5.3 -23.86))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.3 0.1)
+      (arc (pt -4.300 0.100) (pt -4.300 0.150) (pt -4.200 0.050) (start 180.0) (sweep 180.0))
+      (pt -4.2 0.1)
+      (arc (pt -4.200 0.100) (pt -4.300 0.150) (pt -4.200 0.050) (start 180.0) (sweep .0))
+      (pt -4.3 0.1)
+      (arc (pt -4.300 0.100) (pt -4.300 0.150) (pt -4.200 0.050) (start 180.0) (sweep 180.0))
+      (pt -4.2 0.1))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 -7.620) (padstack 0))
+   (leg 3 (pt 0.000 -12.700) (padstack 0))
+   (leg 4 (pt 20.320 -20.320) (padstack 0))
+   (leg 5 (pt 20.320 -10.160) (padstack 0))
+   (leg 6 (pt 20.320 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (round 2.250))
+    (pad (layer INNER) (round 2.250))
+    (pad (layer BCOP) (round 2.250))
+   )
+   (model "PDQE20-Q24-S5-D.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

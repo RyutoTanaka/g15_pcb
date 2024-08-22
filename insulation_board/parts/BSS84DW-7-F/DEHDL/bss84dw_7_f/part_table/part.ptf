@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BSS84DW_7_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "BSS84DW-7-F" (!) = "", "SOT65P222X110-6N", "SOT23 (6-Pin)", "621-BSS84DW-F", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BSS84DW-7-F?qs=1M14lwF4%2Fg%252B%252B8wUnulPPww%3D%3D", "Mosfet Array 50V 130mA 300mW Surface Mount SOT-363", "https://www.diodes.com//assets/Datasheets/BSS84DW.pdf", "1.1 mm"
+END_PART
+
+END.

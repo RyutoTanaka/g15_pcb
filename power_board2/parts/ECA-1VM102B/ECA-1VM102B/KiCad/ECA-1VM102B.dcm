@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECA-1VM102B
+D Panasonic Aluminium Electrolytic Capacitor 1000uF 35V dc 12.5mm M Series Aluminium, Through Hole Electrolytic, +/-20%
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf
+$ENDCMP
+#
+#End Doc Library

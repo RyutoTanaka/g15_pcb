@@ -1,0 +1,16 @@
+.BS170 :1 ;N-channel JFET,BF245A 2mA 30V,BP
+LM431ACZ
+*STM Q
+*NGS
+*PLB 1="DRAIN" 2="GATE" 3="SOURCE"
+*MXP 3
+*DFN BS170
+~!Mouser Part Number (512-BS170)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/BS170?qs=FOlmdCx%252BAA0Q%252B3zvwxJUKQ%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (BS170)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-24/DSA-462429.pdf)
+~!Height (5.33mm)
+~!3D_Model (BS170)
+BS170
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC14504BDR2G
+D ON Semiconductor MC14504BDR2G, Logic Level Translator, Level Translator, CMOS, TTL to CMOS, CMOS, 16-Pin SOIC
+K
+F http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF
+$ENDCMP
+#
+#End Doc Library

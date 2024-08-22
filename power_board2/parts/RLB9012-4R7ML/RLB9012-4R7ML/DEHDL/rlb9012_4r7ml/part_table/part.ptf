@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RLB9012_4R7ML'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "RLB9012-4R7ML" (!) = "", "RLB90124R7ML", "Other", "652-RLB9012-4R7ML", "https://www.mouser.co.uk/ProductDetail/Bourns/RLB9012-4R7ML?qs=dB0LedT%252BmmCdr5M2RjuQig%3D%3D", "4.7 H Unshielded Drum Core, Wirewound Inductor 4.6 A 30mOhm Max Radial, Vertical Cylinder", "https://www.bourns.com/pdfs/RLB9012.pdf", "12.2 mm"
+END_PART
+
+END.

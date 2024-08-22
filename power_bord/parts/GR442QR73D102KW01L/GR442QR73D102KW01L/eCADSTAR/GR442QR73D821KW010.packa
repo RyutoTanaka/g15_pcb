@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GR442QR73D102KW01L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-30-11:26:17)
+    (mountForm default
+        (footprintRef "GR442QR73D821KW010")
+        (spec "System")
+    )
+)

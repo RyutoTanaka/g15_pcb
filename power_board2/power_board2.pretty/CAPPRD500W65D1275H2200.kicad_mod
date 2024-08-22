@@ -1,0 +1,128 @@
+(footprint "CAPPRD500W65D1275H2200"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ECA1VM102B")
+	(tags "Capacitor Polarised")
+	(property "Reference" "C**"
+		(at 2.54 -4.826 0)
+		(layer "F.SilkS")
+		(uuid "907e920c-5eab-4b7d-80b8-4817514f1e67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CAPPRD500W65D1275H2200"
+		(at 0 -2.032 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "356e5483-ecea-48e3-a394-5afc59e2e7e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e909f51-ae72-4a41-9fb6-b9c4480d89f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4918d950-2221-4cca-9e6e-8bf4160116b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d295fde-e7e3-4a6c-8225-2dd80137d8b1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 2.5 0)
+		(end 2.5 6.375)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "df37a57d-8ed4-44c8-b107-06dd7baa5bef")
+	)
+	(fp_circle
+		(center 2.5 0)
+		(end 2.5 6.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "fca5fc63-2763-4e30-ae34-a2d47f4b1cdf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.794 0)
+		(layer "F.Fab")
+		(uuid "de8c40f7-02d4-4c5a-ae1e-018bb876ca4e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2 2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7438978f-ac81-41cd-8a9e-b430cb733ff1")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 2 2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "69263d54-c24a-4dbb-9c7b-7036ac8f5bec")
+	)
+	(model "ECA-1VM102B.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

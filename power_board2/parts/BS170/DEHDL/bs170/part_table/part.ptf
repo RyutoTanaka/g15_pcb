@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BS170'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "BS170" (!) = "", "LM431ACZ", "Other", "512-BS170", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/BS170?qs=FOlmdCx%252BAA0Q%252B3zvwxJUKQ%3D%3D", "N-channel JFET,BF245A 2mA 30V,BP", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-24/DSA-462429.pdf", "5.33 mm"
+END_PART
+
+END.

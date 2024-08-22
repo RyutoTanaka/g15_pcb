@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=BS170
+PartCategory=Transistor
+PackageCategory=Other
+PinCount=3
+Version=2.7
+Released=2018-10-20 12:37:11
+Downloaded=2024-05-13 13:58:06
+3D=Y

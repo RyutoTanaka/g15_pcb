@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "m51957b")(type "KiCad")(uri "${KIPRJMOD}/parts/M51957B/m51957b.kicad_sym")(options "")(descr ""))
+  (lib (name "PDQE20-Q24-S5-D")(type "KiCad")(uri "${KIPRJMOD}/parts/PDQE20-Q24-S5-D/PDQE20-Q24-S5-D/KiCad/PDQE20-Q24-S5-D.kicad_sym")(options "")(descr ""))
+  (lib (name "TWW20J1R0E")(type "Legacy")(uri "${KIPRJMOD}/parts/TWW20J1R0E/TWW20J1R0E/KiCad/TWW20J1R0E.lib")(options "")(descr ""))
+  (lib (name "PJ-102BH")(type "KiCad")(uri "${KIPRJMOD}/parts/PJ-102BH/PJ-102BH/KiCad/PJ-102BH.kicad_sym")(options "")(descr ""))
+)

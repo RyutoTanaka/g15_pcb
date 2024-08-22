@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TWW20J1R0E
+D Wirewound Resistors - Through Hole 1 ohm 20W 5% Ceramic Radial
+K
+F https://www.mouser.de/datasheet/2/303/res_tww_twm-1228653.pdf
+$ENDCMP
+#
+#End Doc Library

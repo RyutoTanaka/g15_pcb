@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC14504BDR2G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MC14504BDR2G" (!) = "", "SOIC127P600X175-16N", "Small Outline Packages", "863-MC14504BDR2G", "https://www.mouser.co.uk/ProductDetail/onsemi/MC14504BDR2G?qs=gb35HGp1gQL9H0BhIg5f%2FQ%3D%3D", "ON Semiconductor MC14504BDR2G, Logic Level Translator, Level Translator, CMOS, TTL to CMOS, CMOS, 16-Pin SOIC", "http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF", "1.75 mm"
+END_PART
+
+END.

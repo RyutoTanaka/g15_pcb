@@ -1,0 +1,16 @@
+.ECA-1VM102B :1 ;Panasonic Aluminium Electrolytic Capacitor 1000uF 35V dc 12.5mm M Series Aluminium, Through Hole Electrolytic, +/-20%
+CAPPRD500W65D1275H2200
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN ECA-1VM102B
+~!Mouser Part Number (667-ECA-1VM102B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM102B?qs=ScpEy4ykWJyQ7uKeGSrZhA%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ECA-1VM102B)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf)
+~!Height (22mm)
+~!3D_Model (ECA-1VM102B)
+ECA-1VM102B
+1.1!U 2.1!U 

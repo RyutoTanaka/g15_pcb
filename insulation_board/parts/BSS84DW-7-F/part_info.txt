@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=BSS84DW-7-F
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=4.1
+Released=2017-07-04 09:38:02
+Downloaded=2024-08-05 14:18:05
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NJM7805FA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "New Japan Radio", "NJM7805FA" (!) = "", "TO254P500X1000X2170-3P", "Transistor Outline, Vertical", "513-NJM7805FA", "https://www.mouser.co.uk/ProductDetail/NJR/NJM7805FA?qs=Z22AoiKME3MfSV1RpQcPCA%3D%3D", "Linear Voltage Regulators 5V 1.5A 3 Terminal", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1772503.pdf", "5 mm"
+END_PART
+
+END.

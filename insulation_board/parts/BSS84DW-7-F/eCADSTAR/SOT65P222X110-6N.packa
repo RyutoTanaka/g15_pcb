@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BSS84DW-7-F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-19-11:38:56)
+    (mountForm default
+        (footprintRef "SOT65P222X110-6N")
+        (spec "System")
+    )
+)

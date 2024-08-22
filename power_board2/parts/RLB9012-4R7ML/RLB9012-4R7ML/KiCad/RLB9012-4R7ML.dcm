@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RLB9012-4R7ML
+D 4.7 H Unshielded Drum Core, Wirewound Inductor 4.6 A 30mOhm Max Radial, Vertical Cylinder
+K
+F https://www.bourns.com/pdfs/RLB9012.pdf
+$ENDCMP
+#
+#End Doc Library

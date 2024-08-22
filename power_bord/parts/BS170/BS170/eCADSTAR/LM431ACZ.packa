@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BS170"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-17-10:14:49)
+    (mountForm default
+        (footprintRef "LM431ACZ")
+        (spec "System")
+    )
+)

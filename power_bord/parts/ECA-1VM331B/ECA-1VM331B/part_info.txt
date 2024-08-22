@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ECA-1VM331B
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor, Polarized Radial Diameter
+PinCount=2
+Version=3.1
+Released=2020-08-18 13:30:12
+Downloaded=2024-05-13 14:11:08
+3D=Y

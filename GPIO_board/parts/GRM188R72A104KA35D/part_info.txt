@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM188R72A104KA35D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=5.1
+Released=2023-03-07 08:48:50
+Downloaded=2024-06-02 14:21:48
+3D=Y

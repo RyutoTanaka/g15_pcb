@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_301562"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-09-14:54:32)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ECA-1VM101")
+)
+
+
+(pinAssign "ECS_301562"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-09-14:54:32)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_301562")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ECA-1VM101")
+)
+
+
+(part "ECA-1VM101"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-09-14:54:32)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "ECA-1VM101")
+    (pinAssignRef "ECS_301562")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "M radial Al elect cap,100uF 35V 85deg C Panasonic 100uF 35 V dc Aluminium Electrolytic Capacitor, M Series 2000h 6.3 Dia. x 11.2mm")
+    (property "Mouser_Part_Number" "667-ECA-1VM101")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ECA-1VM101?qs=F80sRR%252BEZdBICPbxyqGQug%3D%3D")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "ECA-1VM101")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf")
+    (property "compAreaTopHeight" 12.2)
+)
+
+

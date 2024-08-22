@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTV_846S'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lite-On", "LTV-846S" (!) = "", "LTV846S", "Other", "859-LTV-846S", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTV-846S?qs=mugDbBsgkzfnKotYIW64TQ%3D%3D", "Optocoupler Transistor O/P, 80V, SMD16 Lite-On LTV-846S DC Input Transistor Output Quad Optocoupler, Surface Mount, 16-Pin PDIP", "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf", "4.6 mm"
+END_PART
+
+END.

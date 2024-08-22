@@ -1,0 +1,128 @@
+(footprint "CAPPRD250W55D655H1220"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CASE CODE 6.3X11.2_a")
+	(tags "Capacitor Polarised")
+	(property "Reference" "C**"
+		(at 1.27 -2.032 0)
+		(layer "F.SilkS")
+		(uuid "fe016951-a189-4e9c-acf5-38887b1a17c3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CAPPRD250W55D655H1220"
+		(at 0.254 -1.524 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "13f157fc-9420-4049-ba4a-8736d2d81157")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ff7bfd0-35e7-467e-b8b0-d3e818803993")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fafc3f9d-0149-428b-a66c-10f23a175a29")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2dbd9a2e-27bc-4289-8742-932ea8f0ba71")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 1.25 0)
+		(end 1.25 3.275)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "885c6487-6db7-4ff7-bf2d-2f4b0b0a2b56")
+	)
+	(fp_circle
+		(center 1.25 0)
+		(end 1.25 3.275)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "d6060bd0-133c-4e6c-abc4-de7d7c17b32f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.778 0)
+		(layer "F.Fab")
+		(uuid "03a02d4c-26fc-401d-aa27-55c6731de776")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1b27289-c12b-4336-a297-5d81e0af3644")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.5 1.5)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3163c94d-65db-4268-87a5-b7bd909f8abd")
+	)
+	(model "ECA-1VM101.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

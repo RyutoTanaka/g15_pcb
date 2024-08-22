@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BS170
+D N-channel JFET,BF245A 2mA 30V,BP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-24/DSA-462429.pdf
+$ENDCMP
+#
+#End Doc Library

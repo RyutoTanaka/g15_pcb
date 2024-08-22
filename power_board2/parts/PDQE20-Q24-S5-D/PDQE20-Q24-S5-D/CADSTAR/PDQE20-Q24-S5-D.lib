@@ -1,0 +1,16 @@
+.PDQE20-Q24-S5-D :1 ;Isolated DC/DC Converters isolated, 20 W, 9 36 Vdc input, 5 Vdc, 4 A, single regulated output, DIP
+PDQE15Q24S5D
+*STM PS
+*NGS
+*PLB 1="CTRL" 2="GND" 3="VIN" 4="+VO" 5="TRIM" 6="0V"
+*MXP 6
+*DFN PDQE20-Q24-S5-D
+~!Mouser Part Number (490-PDQE20-Q24-S5-D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Inc/PDQE20-Q24-S5-D?qs=T3oQrply3y%2FtCzjhZ6U7qw%3D%3D)
+~!Manufacturer_Name (CUI Inc.)
+~!Manufacturer_Part_Number (PDQE20-Q24-S5-D)
+~!Link Datasheet (https://www.cui.com/product/resource/pdqe20-d.pdf)
+~!Height (12.2mm)
+~!3D_Model (PDQE20-Q24-S5-D)
+PDQE20-Q24-S5-D
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

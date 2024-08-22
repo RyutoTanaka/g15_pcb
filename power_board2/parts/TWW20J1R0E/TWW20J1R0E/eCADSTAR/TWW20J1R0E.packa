@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TWW20J1R0E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-08-31-08:33:07)
+    (mountForm default
+        (footprintRef "TWW20J1R0E")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS84DW-7-F
+D Mosfet Array 50V 130mA 300mW Surface Mount SOT-363
+K
+F https://www.diodes.com//assets/Datasheets/BSS84DW.pdf
+$ENDCMP
+#
+#End Doc Library

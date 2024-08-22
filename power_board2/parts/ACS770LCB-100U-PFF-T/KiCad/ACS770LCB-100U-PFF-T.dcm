@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS770LCB-100U-PFF-T
+D High Precision Linear Current Sensor
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs770-datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

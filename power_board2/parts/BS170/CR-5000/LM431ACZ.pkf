@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LM431ACZ"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LM431ACZ")
+        (spec "default")
+    )
+)
