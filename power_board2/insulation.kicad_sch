@@ -2987,7 +2987,7 @@
 				)
 			)
 		)
-		(property "Value" "PJ-002A"
+		(property "Value" "PJ-002AH"
 			(at 156.21 43.18 0)
 			(effects
 				(font
@@ -2995,7 +2995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "power_board2:PJ002A"
+		(property "Footprint" "power_board2:PJ002AH"
 			(at 149.86 -44.12 0)
 			(effects
 				(font

@@ -3727,7 +3727,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "120"
 			(at 157.48 133.35 0)
 			(effects
 				(font
@@ -3796,7 +3796,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "120"
 			(at 157.48 143.51 0)
 			(effects
 				(font
@@ -4209,7 +4209,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "120"
 			(at 116.84 120.65 90)
 			(effects
 				(font
@@ -4753,7 +4753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "120"
 			(at 157.48 128.27 0)
 			(effects
 				(font
@@ -6333,7 +6333,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "120"
 			(at 68.58 113.03 90)
 			(effects
 				(font
@@ -6599,7 +6599,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "120"
 			(at 68.58 146.05 90)
 			(effects
 				(font
@@ -6799,7 +6799,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "120"
 			(at 157.48 138.43 0)
 			(effects
 				(font
@@ -7209,15 +7209,15 @@
 		(fields_autoplaced yes)
 		(uuid "e6fd3c42-fc22-4d32-914a-72326a2e2f7c")
 		(property "Reference" "R13"
-			(at 116.84 156.21 90)
+			(at 116.84 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100"
-			(at 116.84 153.67 90)
+		(property "Value" "120"
+			(at 116.84 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
